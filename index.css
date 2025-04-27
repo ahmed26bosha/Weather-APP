@@ -149,6 +149,7 @@ body {
 /* هنا بقى الـ Responsive */
 @media (max-width: 600px) {
     .card {
+        
         padding: 30px 20px;
     }
 
