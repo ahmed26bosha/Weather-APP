@@ -134,7 +134,18 @@ body {
     font-size: 28px;
     margin-top: -6px;
 }
+.card h1 {
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+    margin-top: 40px;
+    text-align: center;
+}
 
+.card h1 span {
+    font-weight: 600;
+    color: #33fe00;
+}
 /* هنا بقى الـ Responsive */
 @media (max-width: 600px) {
     .card {
